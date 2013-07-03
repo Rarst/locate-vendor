@@ -1,0 +1,18 @@
+{
+	"name"        : "rarst/locate-vendor",
+	"description" : "Experimental helper for vendor directory location in Composer",
+	"keywords"    : ["composer"],
+	"homepage"    : "https://bitbucket.org/Rarst/locate-vendor",
+	"license"     : "MIT",
+	"authors"     : [
+		{
+			"name"    : "Andrey Savchenko",
+			"email"   : "contact@rarst.net",
+			"homepage": "http://www.Rarst.net/"
+		}
+	],
+	"support"     : {
+		"issues": "https://bitbucket.org/Rarst/locate-vendor/issues",
+		"source": "https://bitbucket.org/Rarst/locate-vendor/src"
+	}
+}
