@@ -14,5 +14,11 @@
 	"support"     : {
 		"issues": "https://bitbucket.org/Rarst/locate-vendor/issues",
 		"source": "https://bitbucket.org/Rarst/locate-vendor/src"
+	},
+	"require" : {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"classmap": ["class-locate-vendor.php"]
 	}
 }
