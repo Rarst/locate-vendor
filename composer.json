@@ -2,7 +2,7 @@
 	"name"        : "rarst/locate-vendor",
 	"description" : "Experimental helper for vendor directory location in Composer",
 	"keywords"    : ["composer"],
-	"homepage"    : "https://bitbucket.org/Rarst/locate-vendor",
+	"homepage"    : "https://github.com/Rarst/locate-vendor",
 	"license"     : "MIT",
 	"authors"     : [
 		{
@@ -12,8 +12,7 @@
 		}
 	],
 	"support"     : {
-		"issues": "https://bitbucket.org/Rarst/locate-vendor/issues",
-		"source": "https://bitbucket.org/Rarst/locate-vendor/src"
+		"issues": "https://github.com/Rarst/locate-vendor/issues"
 	},
 	"require" : {
 		"php": ">=5.3"
