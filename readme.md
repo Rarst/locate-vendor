@@ -35,5 +35,5 @@ $vendor_path  = \Rarst\Composer\Locate_Vendor::get_vendor_path();
 Example code:
 
 ```php
-$package_path = \Rarst\Composer\Locate_Vendor::get_vendor_path( 'twbs/bootstrap' );
+$package_path = \Rarst\Composer\Locate_Vendor::get_package_path( 'twbs/bootstrap' );
 ```
